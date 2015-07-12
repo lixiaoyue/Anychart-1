@@ -129,14 +129,63 @@
         max-width: none;
         margin-top: 15px;
     }
+
+    .assistant, .section_four_form .left_input input, .section_four_form textarea{
+        width: 100%;
+    }
+
+    .assistant .form_download, .assistant .form_contact, .form_contact, .form_download{
+        width: 100%;
+        text-align: center;
+        padding: 0;
+        font-size: 15px;
+    }
+
+    .form_button{
+        margin-top: 20px;
+    }
+
+    .section_four_form{
+        padding: 0 10px;
+    }
+
 }
 
 
 @media screen and (max-width: 500px){
+
     .section_two_tittle, .section_two_description, .section_three_tittle, .section_three_description{
         padding: 0 15px;
     }
+
+    .section_four{
+        padding-bottom: 30px;
+    }
+
+    .section_four_tittle{
+       margin: 30px 0px;
+    }
+
+    .assistant .form_download, .assistant .form_contact, .form_contact, .form_download{
+        padding: 0 50px;
+        white-space: normal;
+    }
+
+    .customers_icons li{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
 }
+
+@media screen and (max-width: 500px) and (orientation: landscape){
+    .customers_icons li{
+        width: 49%;
+    }
+}
+
+
 
 /*
 
