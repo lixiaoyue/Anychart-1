@@ -139,7 +139,7 @@
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
 
-    .header{
+   /* .header{
         background-image: url('../../img/static/header/retina/background-header_retina.jpg');
         background-size: cover;
     }
@@ -172,7 +172,7 @@
     .section_four{
         background-image: url('../../img/static/section_four/bg_retina.png');
         background-size: cover;
-    }
+    }*/
 
 }
 
