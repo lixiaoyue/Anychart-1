@@ -141,30 +141,37 @@
 
     .header{
         background-image: url('../../img/static/header/retina/background-header_retina.jpg');
+        background-size: cover;
     }
 
     .logo-header{
         background-image: url('../../img/static/header/retina/logo-header_retina.png');
+        background-size: cover;
     }
 
     .form_sprite{
         background-image: url('../../img/static/header/retina/spritesheet.png');
+        background-size: cover;
     }
 
     .customers_icons_sprite{
         background-image: url('../../img/static/section_one/retina/spritesheet.png');
+        background-size: cover;
     }
 
     .section_two{
         background-image: url('../../img/static/section_two/bg_retina.png');
+        background-size: cover;
     }
 
     .section_three{
         background-image: url('../../img/static/section_three/bg_retina.jpg');
+        background-size: cover;
     }
 
     .section_four{
         background-image: url('../../img/static/section_four/bg_retina.png');
+        background-size: cover;
     }
 
 }
