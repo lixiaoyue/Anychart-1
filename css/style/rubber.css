@@ -130,12 +130,9 @@
         margin-top: 15px;
     }
 }
+
+
 /*
-@media screen and (max-width: 500px){
-    .section_two_tittle, .section_two_description, .section_three_tittle, .section_three_description{
-        padding: 0 15px;
-    }
-}
 
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
 
