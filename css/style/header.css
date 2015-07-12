@@ -1,0 +1,113 @@
+.header{
+    height: 721px;
+    background: url('../../img/static/header/background-header.jpg') no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.logo-header{
+    float:left;
+    clear: left;
+    margin-top: 50px;
+    width: 190px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    padding: 20px 20px 20px 70px;
+    background: url('../../img/static/header/logo-header.png') no-repeat 10px 50% #1269bf;
+}
+
+.description_header{
+    float:left;
+    clear: left;
+    margin-top: 60px;
+    padding-left: 20px;
+    font-size: 40px;
+    color: white;
+    max-width: 500px;
+    border-left: 5px solid #f7941e;
+}
+
+.assistant{
+    position: relative;
+    float: right;
+    padding: 40px 35px;
+    width: 405px;
+    padding-top: 60px;
+    margin-top: -68px;
+    background-color: white;
+}
+
+.assistant_tittle{
+    font-size: 25px;
+    color: #8e8e8e;
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+
+.assistant_tittle:before{
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 25px;
+    margin-left: -15px;
+    width: 70px;
+    border: 3px solid #f7941e;
+}
+
+.form_input{
+    display: inline-block;
+    height: 40px;
+    width: 100%;
+    font-size: 15px;
+    margin-bottom: 25px;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.assistant textarea{
+    height: 121px;
+}
+
+.form_textarea{
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 15px;
+    width: 100%;
+    clear: both;
+}
+
+.form_sprite{
+    background: no-repeat url('../../img/static/header/spritesheet.png') 0 0;
+}
+
+.assistant .form_contact{
+    width: 170px;
+    height: 60px;
+    white-space: normal;
+    padding-left: 47px;
+    text-align: left;
+    background-position: -10px -74px;
+}
+
+.assistant .form_download{
+    width: 145px;
+    height: 60px;
+    white-space: normal;
+    padding-left: 47px;
+    text-align: left;
+    background-position: -10px -142px;
+}
+
+.assistant .form_contact:active{
+    color: white;
+    background-color: #1268bd;
+    border-color: #1268bd;
+    background-position: -10px -6px;
+}
+
+.assistant .form_download:active{
+    color: white;
+    background-color: #2eb44a;
+    border-color: #2eb44a;
+    background-position: -10px -210px;
+}

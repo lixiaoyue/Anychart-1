@@ -1,0 +1,125 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-bankofchina_color {
+    width: 305px;
+    height: 86px;
+    background-position: -10px -10px;
+}
+
+.sprite-bankofchina_gray {
+    width: 305px;
+    height: 86px;
+    background-position: -10px -116px;
+}
+
+.sprite-bmw_color {
+    width: 117px;
+    height: 117px;
+    background-position: -10px -222px;
+}
+
+.sprite-bmw_gray {
+    width: 117px;
+    height: 117px;
+    background-position: -10px -359px;
+}
+
+.sprite-bp_color {
+    width: 145px;
+    height: 145px;
+    background-position: -10px -496px;
+}
+
+.sprite-bp_gray {
+    width: 145px;
+    height: 145px;
+    background-position: -10px -661px;
+}
+
+.sprite-citi_color {
+    width: 120px;
+    height: 77px;
+    background-position: -10px -826px;
+}
+
+.sprite-citi_gray {
+    width: 120px;
+    height: 77px;
+    background-position: -10px -923px;
+}
+
+.sprite-ford_color {
+    width: 186px;
+    height: 72px;
+    background-position: -10px -1020px;
+}
+
+.sprite-ford_gray {
+    width: 186px;
+    height: 72px;
+    background-position: -10px -1112px;
+}
+
+.sprite-huawei_color {
+    width: 129px;
+    height: 129px;
+    background-position: -10px -1204px;
+}
+
+.sprite-huawei_gray {
+    width: 129px;
+    height: 129px;
+    background-position: -10px -1353px;
+}
+
+.sprite-msoft_color {
+    width: 273px;
+    height: 59px;
+    background-position: -10px -1502px;
+}
+
+.sprite-msoft_gray {
+    width: 273px;
+    height: 59px;
+    background-position: -10px -1581px;
+}
+
+.sprite-oracle_color {
+    width: 252px;
+    height: 32px;
+    background-position: -10px -1660px;
+}
+
+.sprite-oracle_gray {
+    width: 252px;
+    height: 32px;
+    background-position: -10px -1712px;
+}
+
+.sprite-samsung_color {
+    width: 240px;
+    height: 81px;
+    background-position: -10px -1764px;
+}
+
+.sprite-samsung_gray {
+    width: 240px;
+    height: 81px;
+    background-position: -10px -1865px;
+}
+
+.sprite-tencent_color {
+    width: 369px;
+    height: 48px;
+    background-position: -10px -1966px;
+}
+
+.sprite-tencent_gray {
+    width: 369px;
+    height: 48px;
+    background-position: -10px -2034px;
+}

@@ -1,0 +1,375 @@
+.main{
+    border-top: 1px solid white;
+    margin-top: -1px;
+    background-color: white;
+}
+
+.section_one{
+    clear: both;
+    margin-top: 35px;
+}
+
+.section_customers{
+    font-size: 25px;
+    text-align: center;
+}
+
+.section_customers_color{
+    color: #f0402e;
+}
+
+.container_customers{
+    margin-top: 55px;
+    text-align: center;
+}
+
+.customers_icons > li{
+    margin: 0 20px;
+    margin-bottom: 35px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.customers_icons > li:first-child{
+    margin-left: 0;
+}
+
+.customers_icons_sprite{
+    display: inline-block;
+    background-image: url('../../img/static/section_one/spritesheet.png');
+    background-repeat: no-repeat;
+}
+
+.sprite_bankofchina{
+    width: 153px;
+    height: 44px;
+    background-position: -10px -74px;
+}
+
+.sprite_bankofchina:hover{
+    background-position: -10px -10px;
+}
+
+.sprite_bmw:hover{
+    background-position: -10px -138px;
+}
+
+.sprite_bmw{
+    width: 59px;
+    height: 59px;
+    background-position: -10px -217px;
+}
+
+.sprite_bp:hover{
+    background-position: -10px -296px;
+}
+
+.sprite_bp{
+    width: 73px;
+    height: 74px;
+    background-position: -10px -390px;
+}
+
+.sprite_citi:hover{
+    background-position: -10px -484px;
+}
+
+.sprite_citi{
+    width: 61px;
+    height: 40px;
+    background-position: -10px -544px;
+}
+
+.sprite_ford:hover{
+    background-position: -10px -604px;
+}
+
+.sprite_ford{
+    width: 94px;
+    height: 37px;
+    background-position: -10px -661px;
+}
+
+.sprite_huawei:hover{
+    background-position: -10px -718px;
+}
+
+.sprite_huawei{
+    width: 65px;
+    height: 65px;
+    background-position: -10px -803px;
+}
+
+.sprite_msoft:hover{
+    background-position: -10px -888px;
+}
+
+.sprite_msoft{
+    width: 137px;
+    height: 31px;
+    background-position: -10px -939px;
+}
+
+.sprite_oracle:hover{
+    background-position: -10px -990px;
+}
+
+.sprite_oracle{
+    width: 126px;
+    height: 17px;
+    background-position: -10px -1027px;
+}
+
+.sprite_samsung:hover{
+    background-position: -10px -1064px;
+}
+
+.sprite_samsung{
+    width: 120px;
+    height: 41px;
+    background-position: -10px -1125px;
+}
+
+.sprite_tencent:hover{
+    background-position: -10px -1186px;
+}
+
+.sprite_tencent{
+    width: 185px;
+    height: 25px;
+    background-position: -10px -1231px;
+}
+
+.section_two{
+   background: no-repeat url('../../img/static/section_two/bg.png') 50% 50%  #f2f2f2;
+}
+
+.sprite_svg_html{
+    background-position: 23px 12px;
+    background-color: #293540;
+}
+
+.sprite_svg_phone{
+    background-position: -136px -2px;
+    background-color: #2eb44a;
+}
+
+.sprite_svg_tab{
+    background-position: -263px -2px;
+    background-color: #f7941e;
+}
+
+.sprite_svg_pc{
+    background-position: 20px -107px;
+    background-color: #f0402e;
+}
+
+.section_two_container{
+    max-width: 850px;
+    margin: 0 auto;
+    border-top: 1px solid #cacaca;;
+}
+
+.section_two_tittle{
+    margin-top: 60px;
+    padding: 0 60px;
+    font-size: 25px;
+    color: #1268bd;
+    text-align: center;
+}
+
+.section_two_icons{
+    margin: 70px 0;
+    text-align: center;
+}
+
+.section_two_icons > li{
+    width: 141px;
+    height: 141px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+
+.section_two_icons > li:first-child{
+    margin-left: 0;
+}
+
+.section_two_description{
+    margin-bottom: 70px;
+    padding: 0 60px;
+    text-align: center;
+    font-size: 16px;
+    color: #5e5e5e;
+}
+
+.section_three{
+    background: no-repeat url('../../img/static/section_three/bg.jpg') 0 0 #293540;
+    background-size: cover;
+    border-top: 1px solid #cacaca;;
+}
+
+.section_three_tittle{
+    padding: 0 70px;
+    margin: 70px 0;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.section_three_icons{
+    text-align: center;
+}
+
+.sprite_svg.sprite_svg_speed{
+    width: 55px;
+    background-position: -22px -240px;
+}
+
+.sprite_svg.sprite_svg_portfolio{
+    width: 52px;
+    background-position: -159px -239px;
+}
+
+.sprite_svg_crystal{
+    width: 56px;
+    background-position: -307px -245px;
+}
+
+.section_three_icons li{
+    display: inline-block;
+    margin: 0 70px;
+    vertical-align: top;
+}
+
+.section_three_icons li:first-child{
+    margin-left: 0;
+}
+
+.section_three_icons li div{
+    height: 47px;
+    display: inline-block;
+}
+
+.section_three_icons_description{
+    margin-top: 25px;
+    font-size: 21px;
+    max-width: 210px;
+    color: white;
+}
+
+.section_three_container_leader{
+    margin: 60px 45px;
+    background-color: #16222b;
+    border-top: 1px solid #16222B;
+}
+
+.leader{
+    font-size: 21px;
+    color: white;
+    text-align: center;
+    padding: 40px 100px;
+}
+
+.leader_line{
+    width: 140px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 2px solid #f7941e;
+}
+
+.section_three_description{
+    margin-bottom: 70px;
+    padding: 0 60px;
+    text-align: center;
+    font-size: 16px;
+    color: #a3b0bd;
+}
+
+.section_four{
+    background: no-repeat url('../../img/static/section_four/bg.png') 0 0 #ececec;
+    background-size: cover;
+    padding-bottom: 60px;
+}
+
+.section_four_form{
+    padding: 0 120px;
+}
+
+.section_four_tittle{
+    margin: 70px 0px;
+    font-size: 25px;
+    color: #4c545c;
+    text-align: center;
+}
+
+.section_four_form .left_input input{
+    width: 330px;
+}
+
+.section_four_form .left_input input:first-child{
+    margin-top: 0;
+}
+
+.section_four_form textarea{
+    width: 449px;
+    height: 235px;
+}
+
+.left_input{
+    margin-right: 30px;
+    float: left;
+    max-width: 330px;
+}
+
+.right_input{
+    float: left;
+}
+
+.right_input textarea{
+    padding: 10px;
+}
+
+.form_button{
+    clear: top;
+    display: inline-block;
+    border-radius: 5px;
+    height: 50px;
+    margin-top: 35px;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+.form_download{
+    width: 175px;
+    color: #6fc37e;
+    border: 3px solid #93d2a0;
+    background-position: -5px -148px;
+    padding-left: 35px;
+}
+
+.form_contact{
+    width: 260px;
+    color: #2c72c0;
+    border: 3px solid #72a0cd;
+    margin-right: 10px;
+    background-position: -5px -80px;
+    padding-left: 35px;
+}
+
+.form_download:active{
+    color: white;
+    background-color: #2eb44a;
+    border-color: #2eb44a;
+    background-position: -5px -217px;
+}
+
+.form_contact:active{
+    color: white;
+    background-color: #1268bd;
+    border-color: #1268bd;
+    background-position: -5px -12px;
+}
+
+
+

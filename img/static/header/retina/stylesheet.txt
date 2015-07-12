@@ -1,0 +1,29 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-con_active_retina {
+    width: 48px;
+    height: 55px;
+    background-position: -10px -10px;
+}
+
+.sprite-cont_retina {
+    width: 48px;
+    height: 55px;
+    background-position: -10px -85px;
+}
+
+.sprite-down_active_retina {
+    width: 48px;
+    height: 55px;
+    background-position: -10px -160px;
+}
+
+.sprite-down_retina {
+    width: 48px;
+    height: 55px;
+    background-position: -10px -235px;
+}

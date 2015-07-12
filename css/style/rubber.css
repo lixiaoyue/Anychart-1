@@ -1,0 +1,173 @@
+@media screen and (max-width: 1070px) {
+
+    .left_input{
+        margin: 0;
+        max-width: none;
+        text-align: center;
+    }
+
+    .right_input{
+        text-align: center;
+        float: none;
+    }
+
+    .section_four_form{
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 945px)  {
+
+    .logo-header, .description_header{
+        float: none;
+    }
+
+    .assistant{
+        float: left;
+        margin: 60px 0;
+        background-color: #f2f2f2;
+        border: 1px solid #e8e8e8;
+    }
+
+    .section_three_icons li:first-child {
+        margin-left: -60px;
+    }
+
+    .section_three_icons li{
+        margin-left: 70px;
+        margin-right: 0px;
+    }
+
+    .leader{
+        padding: 40px 25px;
+    }
+
+    .section_four_tittle{
+        margin: 40px 0px;
+    }
+
+    .social-networks-icons{
+        margin-bottom: 40px;
+    }
+
+    .footer_title{
+        margin-top: 40px;
+    }
+
+}
+
+@media screen and (max-width: 735px){
+
+    .section_two_tittle{
+        margin-top: 40px;
+    }
+
+    .section_three_tittle{
+        margin: 40px 0;
+    }
+
+    .section_two_icons > li{
+        margin-left: 10px;
+    }
+
+    .section_two_icons > li:first-child{
+        margin-left: 10px;
+    }
+
+    .section_two_tittle{
+        padding: 0 40px;
+    }
+
+    .section_four_form{
+        padding: 0;
+    }
+
+    .section_three_icons li:first-child{
+        margin-left: 0;
+    }
+
+    .section_two_description{
+        padding: 0 40px;
+    }
+
+    .section_two_icons{
+        margin: 40px 0;
+    }
+
+    .section_three_tittle{
+        padding: 0 40px;
+    }
+
+    .section_three_container_leader{
+        margin: 40px 25px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+
+    .footer_title > li:first-child{
+        margin-left: auto;
+    }
+
+    .section_two_icons > li{
+        margin: 20px 20px;
+    }
+
+    .section_three_icons li{
+        display: block;
+        text-align: center;
+        margin: 0;
+        margin-top: 35px;
+    }
+
+    .section_three_icons li:first-child{
+        margin-top: 0;
+    }
+
+    .section_three_icons_description{
+        max-width: none;
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .section_two_tittle, .section_two_description, .section_three_tittle, .section_three_description{
+        padding: 0 15px;
+    }
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
+
+    .header{
+        background-image: url('../../img/static/header/retina/background-header_retina.jpg');
+    }
+
+    .logo-header{
+        background-image: url('../../img/static/header/retina/logo-header_retina.png');
+    }
+
+    .form_sprite{
+        background-image: url('../../img/static/header/retina/spritesheet.png');
+    }
+
+    .customers_icons_sprite{
+        background-image: url('../../img/static/section_one/retina/spritesheet.png');
+    }
+
+    .section_two{
+        background-image: url('../../img/static/section_two/bg_retina.png');
+    }
+
+    .section_three{
+        background-image: url('../../img/static/section_three/bg_retina.jpg');
+    }
+
+    .section_four{
+        background-image: url('../../img/static/section_four/bg_retina.png');
+    }
+
+}
+
+
+
