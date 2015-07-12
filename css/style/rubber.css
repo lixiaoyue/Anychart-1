@@ -130,7 +130,7 @@
         margin-top: 15px;
     }
 }
-
+/*
 @media screen and (max-width: 500px){
     .section_two_tittle, .section_two_description, .section_three_tittle, .section_three_description{
         padding: 0 15px;
@@ -172,9 +172,9 @@
     .section_four{
         background-image: url('../../img/static/section_four/bg_retina.png');
         background-size: cover;
-    }*/
+    }
 
-}
+}*/
 
 
 
